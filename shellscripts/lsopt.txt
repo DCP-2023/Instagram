@@ -1,0 +1,16 @@
+Wed Sep  6 06:12:50 UTC 2023
+Chandu
+arops.sh
+clargsif.sh
+clargsjava.sh
+comments
+dbbackup.sh
+firstshell.sh
+lsopt.txt
+read4.sh
+reply.sh
+string.sh
+uiread2.sh
+uiread3.sh
+userdefined.sh
+userinputread.sh

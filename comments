@@ -1,0 +1,12 @@
+echo "hello guys"
+echo "comments are vwry usefull to understand the code"
+echo "two types of comments are there"
+echo "s l c starts"
+#echo "commented this line"
+echo "m l c starts"
+>>Chandu
+ls
+mkdir
+date
+Chandu
+echo "comments demo over"
