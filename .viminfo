@@ -15,9 +15,9 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1694318371,,"wq"
+|2,0,1694318650,,"wq"
 :q!
-|2,0,1693978392,,"q!"
+|2,0,1694318619,,"q!"
 :q1
 |2,0,1693978370,,"q1"
 :q
@@ -36,34 +36,116 @@
 # Registers:
 
 # File marks:
-'0  1  7  ~/java.txt
-|4,48,1,7,1694318371,"~/java.txt"
-'1  1  31  ~/deploy.sh
-|4,49,1,31,1694246291,"~/deploy.sh"
-'2  1  39  ~/stringutils.java
-|4,50,1,39,1694245721,"~/stringutils.java"
-'3  1  30  ~/DBUtils.java
-|4,51,1,30,1694245555,"~/DBUtils.java"
-'4  6  0  ~/shellscripts/firstshell.sh
-|4,52,6,0,1693980519,"~/shellscripts/firstshell.sh"
-'5  3  6  ~/shellscripts/read4.sh
-|4,53,3,6,1693980216,"~/shellscripts/read4.sh"
-'6  2  6  ~/shellscripts/read4.sh
-|4,54,2,6,1693979820,"~/shellscripts/read4.sh"
-'7  2  6  ~/shellscripts/read4.sh
-|4,55,2,6,1693979820,"~/shellscripts/read4.sh"
-'8  5  33  ~/shellscripts/read4.sh
-|4,56,5,33,1693979524,"~/shellscripts/read4.sh"
-'9  5  33  ~/shellscripts/read4.sh
-|4,57,5,33,1693979524,"~/shellscripts/read4.sh"
+'0  2  6  ~/stringutils.java
+|4,48,2,6,1694318650,"~/stringutils.java"
+'1  1  0  ~/stringutils.sh
+|4,49,1,0,1694318619,"~/stringutils.sh"
+'2  1  0  ~/ls
+|4,50,1,0,1694318529,"~/ls"
+'3  1  7  ~/java.txt
+|4,51,1,7,1694318371,"~/java.txt"
+'4  1  31  ~/deploy.sh
+|4,52,1,31,1694246291,"~/deploy.sh"
+'5  1  39  ~/stringutils.java
+|4,53,1,39,1694245721,"~/stringutils.java"
+'6  1  39  ~/stringutils.java
+|4,54,1,39,1694245721,"~/stringutils.java"
+'7  1  30  ~/DBUtils.java
+|4,55,1,30,1694245555,"~/DBUtils.java"
+'8  6  0  ~/shellscripts/firstshell.sh
+|4,56,6,0,1693980519,"~/shellscripts/firstshell.sh"
+'9  3  6  ~/shellscripts/read4.sh
+|4,57,3,6,1693980216,"~/shellscripts/read4.sh"
 
 # Jumplist (newest first):
+-'  2  6  ~/stringutils.java
+|4,39,2,6,1694318650,"~/stringutils.java"
+-'  1  39  ~/stringutils.java
+|4,39,1,39,1694318634,"~/stringutils.java"
+-'  1  0  ~/stringutils.sh
+|4,39,1,0,1694318619,"~/stringutils.sh"
+-'  1  0  ~/stringutils.sh
+|4,39,1,0,1694318619,"~/stringutils.sh"
+-'  1  0  ~/ls
+|4,39,1,0,1694318529,"~/ls"
+-'  1  0  ~/ls
+|4,39,1,0,1694318529,"~/ls"
+-'  1  0  ~/ls
+|4,39,1,0,1694318529,"~/ls"
+-'  1  0  ~/ls
+|4,39,1,0,1694318529,"~/ls"
+-'  1  7  ~/java.txt
+|4,39,1,7,1694318371,"~/java.txt"
+-'  1  7  ~/java.txt
+|4,39,1,7,1694318371,"~/java.txt"
+-'  1  7  ~/java.txt
+|4,39,1,7,1694318371,"~/java.txt"
+-'  1  7  ~/java.txt
+|4,39,1,7,1694318371,"~/java.txt"
+-'  1  7  ~/java.txt
+|4,39,1,7,1694318371,"~/java.txt"
+-'  1  7  ~/java.txt
+|4,39,1,7,1694318371,"~/java.txt"
+-'  1  7  ~/java.txt
+|4,39,1,7,1694318371,"~/java.txt"
 -'  1  7  ~/java.txt
 |4,39,1,7,1694318371,"~/java.txt"
 -'  1  31  ~/deploy.sh
 |4,39,1,31,1694246291,"~/deploy.sh"
 -'  1  31  ~/deploy.sh
 |4,39,1,31,1694246291,"~/deploy.sh"
+-'  1  31  ~/deploy.sh
+|4,39,1,31,1694246291,"~/deploy.sh"
+-'  1  31  ~/deploy.sh
+|4,39,1,31,1694246291,"~/deploy.sh"
+-'  1  31  ~/deploy.sh
+|4,39,1,31,1694246291,"~/deploy.sh"
+-'  1  31  ~/deploy.sh
+|4,39,1,31,1694246291,"~/deploy.sh"
+-'  1  31  ~/deploy.sh
+|4,39,1,31,1694246291,"~/deploy.sh"
+-'  1  31  ~/deploy.sh
+|4,39,1,31,1694246291,"~/deploy.sh"
+-'  1  31  ~/deploy.sh
+|4,39,1,31,1694246291,"~/deploy.sh"
+-'  1  31  ~/deploy.sh
+|4,39,1,31,1694246291,"~/deploy.sh"
+-'  1  31  ~/deploy.sh
+|4,39,1,31,1694246291,"~/deploy.sh"
+-'  1  31  ~/deploy.sh
+|4,39,1,31,1694246291,"~/deploy.sh"
+-'  1  31  ~/deploy.sh
+|4,39,1,31,1694246291,"~/deploy.sh"
+-'  1  31  ~/deploy.sh
+|4,39,1,31,1694246291,"~/deploy.sh"
+-'  1  31  ~/deploy.sh
+|4,39,1,31,1694246291,"~/deploy.sh"
+-'  1  31  ~/deploy.sh
+|4,39,1,31,1694246291,"~/deploy.sh"
+-'  1  39  ~/stringutils.java
+|4,39,1,39,1694245721,"~/stringutils.java"
+-'  1  39  ~/stringutils.java
+|4,39,1,39,1694245721,"~/stringutils.java"
+-'  1  39  ~/stringutils.java
+|4,39,1,39,1694245721,"~/stringutils.java"
+-'  1  39  ~/stringutils.java
+|4,39,1,39,1694245721,"~/stringutils.java"
+-'  1  39  ~/stringutils.java
+|4,39,1,39,1694245721,"~/stringutils.java"
+-'  1  39  ~/stringutils.java
+|4,39,1,39,1694245721,"~/stringutils.java"
+-'  1  39  ~/stringutils.java
+|4,39,1,39,1694245721,"~/stringutils.java"
+-'  1  39  ~/stringutils.java
+|4,39,1,39,1694245721,"~/stringutils.java"
+-'  1  39  ~/stringutils.java
+|4,39,1,39,1694245721,"~/stringutils.java"
+-'  1  39  ~/stringutils.java
+|4,39,1,39,1694245721,"~/stringutils.java"
+-'  1  39  ~/stringutils.java
+|4,39,1,39,1694245721,"~/stringutils.java"
+-'  1  39  ~/stringutils.java
+|4,39,1,39,1694245721,"~/stringutils.java"
 -'  1  39  ~/stringutils.java
 |4,39,1,39,1694245721,"~/stringutils.java"
 -'  1  39  ~/stringutils.java
@@ -88,178 +170,112 @@
 |4,39,1,30,1694245555,"~/DBUtils.java"
 -'  1  30  ~/DBUtils.java
 |4,39,1,30,1694245555,"~/DBUtils.java"
--'  6  0  ~/shellscripts/firstshell.sh
-|4,39,6,0,1693980519,"~/shellscripts/firstshell.sh"
--'  6  0  ~/shellscripts/firstshell.sh
-|4,39,6,0,1693980519,"~/shellscripts/firstshell.sh"
--'  6  0  ~/shellscripts/firstshell.sh
-|4,39,6,0,1693980519,"~/shellscripts/firstshell.sh"
--'  6  0  ~/shellscripts/firstshell.sh
-|4,39,6,0,1693980519,"~/shellscripts/firstshell.sh"
--'  6  0  ~/shellscripts/firstshell.sh
-|4,39,6,0,1693980519,"~/shellscripts/firstshell.sh"
--'  6  0  ~/shellscripts/firstshell.sh
-|4,39,6,0,1693980519,"~/shellscripts/firstshell.sh"
--'  6  0  ~/shellscripts/firstshell.sh
-|4,39,6,0,1693980519,"~/shellscripts/firstshell.sh"
--'  6  0  ~/shellscripts/firstshell.sh
-|4,39,6,0,1693980519,"~/shellscripts/firstshell.sh"
--'  6  0  ~/shellscripts/firstshell.sh
-|4,39,6,0,1693980519,"~/shellscripts/firstshell.sh"
--'  6  0  ~/shellscripts/firstshell.sh
-|4,39,6,0,1693980519,"~/shellscripts/firstshell.sh"
--'  6  0  ~/shellscripts/firstshell.sh
-|4,39,6,0,1693980519,"~/shellscripts/firstshell.sh"
--'  6  0  ~/shellscripts/firstshell.sh
-|4,39,6,0,1693980519,"~/shellscripts/firstshell.sh"
--'  6  0  ~/shellscripts/firstshell.sh
-|4,39,6,0,1693980519,"~/shellscripts/firstshell.sh"
--'  6  0  ~/shellscripts/firstshell.sh
-|4,39,6,0,1693980519,"~/shellscripts/firstshell.sh"
--'  6  0  ~/shellscripts/firstshell.sh
-|4,39,6,0,1693980519,"~/shellscripts/firstshell.sh"
--'  6  0  ~/shellscripts/firstshell.sh
-|4,39,6,0,1693980519,"~/shellscripts/firstshell.sh"
--'  2  0  ~/shellscripts/firstshell.sh
-|4,39,2,0,1693980474,"~/shellscripts/firstshell.sh"
--'  2  0  ~/shellscripts/firstshell.sh
-|4,39,2,0,1693980474,"~/shellscripts/firstshell.sh"
--'  2  0  ~/shellscripts/firstshell.sh
-|4,39,2,0,1693980474,"~/shellscripts/firstshell.sh"
--'  2  0  ~/shellscripts/firstshell.sh
-|4,39,2,0,1693980474,"~/shellscripts/firstshell.sh"
--'  2  0  ~/shellscripts/firstshell.sh
-|4,39,2,0,1693980474,"~/shellscripts/firstshell.sh"
--'  2  0  ~/shellscripts/firstshell.sh
-|4,39,2,0,1693980474,"~/shellscripts/firstshell.sh"
--'  2  0  ~/shellscripts/firstshell.sh
-|4,39,2,0,1693980474,"~/shellscripts/firstshell.sh"
--'  2  0  ~/shellscripts/firstshell.sh
-|4,39,2,0,1693980474,"~/shellscripts/firstshell.sh"
--'  2  0  ~/shellscripts/firstshell.sh
-|4,39,2,0,1693980474,"~/shellscripts/firstshell.sh"
--'  2  0  ~/shellscripts/firstshell.sh
-|4,39,2,0,1693980474,"~/shellscripts/firstshell.sh"
--'  2  0  ~/shellscripts/firstshell.sh
-|4,39,2,0,1693980474,"~/shellscripts/firstshell.sh"
--'  2  0  ~/shellscripts/firstshell.sh
-|4,39,2,0,1693980474,"~/shellscripts/firstshell.sh"
--'  2  0  ~/shellscripts/firstshell.sh
-|4,39,2,0,1693980474,"~/shellscripts/firstshell.sh"
--'  2  0  ~/shellscripts/firstshell.sh
-|4,39,2,0,1693980474,"~/shellscripts/firstshell.sh"
--'  2  0  ~/shellscripts/firstshell.sh
-|4,39,2,0,1693980474,"~/shellscripts/firstshell.sh"
--'  2  0  ~/shellscripts/firstshell.sh
-|4,39,2,0,1693980474,"~/shellscripts/firstshell.sh"
--'  3  20  ~/shellscripts/firstshell.sh
-|4,39,3,20,1693980446,"~/shellscripts/firstshell.sh"
--'  3  20  ~/shellscripts/firstshell.sh
-|4,39,3,20,1693980446,"~/shellscripts/firstshell.sh"
--'  3  20  ~/shellscripts/firstshell.sh
-|4,39,3,20,1693980446,"~/shellscripts/firstshell.sh"
--'  3  20  ~/shellscripts/firstshell.sh
-|4,39,3,20,1693980446,"~/shellscripts/firstshell.sh"
--'  3  20  ~/shellscripts/firstshell.sh
-|4,39,3,20,1693980446,"~/shellscripts/firstshell.sh"
--'  3  20  ~/shellscripts/firstshell.sh
-|4,39,3,20,1693980446,"~/shellscripts/firstshell.sh"
--'  3  20  ~/shellscripts/firstshell.sh
-|4,39,3,20,1693980446,"~/shellscripts/firstshell.sh"
--'  3  20  ~/shellscripts/firstshell.sh
-|4,39,3,20,1693980446,"~/shellscripts/firstshell.sh"
--'  3  20  ~/shellscripts/firstshell.sh
-|4,39,3,20,1693980446,"~/shellscripts/firstshell.sh"
--'  3  20  ~/shellscripts/firstshell.sh
-|4,39,3,20,1693980446,"~/shellscripts/firstshell.sh"
--'  3  20  ~/shellscripts/firstshell.sh
-|4,39,3,20,1693980446,"~/shellscripts/firstshell.sh"
--'  3  20  ~/shellscripts/firstshell.sh
-|4,39,3,20,1693980446,"~/shellscripts/firstshell.sh"
--'  3  20  ~/shellscripts/firstshell.sh
-|4,39,3,20,1693980446,"~/shellscripts/firstshell.sh"
--'  3  20  ~/shellscripts/firstshell.sh
-|4,39,3,20,1693980446,"~/shellscripts/firstshell.sh"
--'  3  20  ~/shellscripts/firstshell.sh
-|4,39,3,20,1693980446,"~/shellscripts/firstshell.sh"
--'  3  20  ~/shellscripts/firstshell.sh
-|4,39,3,20,1693980446,"~/shellscripts/firstshell.sh"
--'  3  6  ~/shellscripts/read4.sh
-|4,39,3,6,1693980216,"~/shellscripts/read4.sh"
--'  3  6  ~/shellscripts/read4.sh
-|4,39,3,6,1693980216,"~/shellscripts/read4.sh"
--'  3  6  ~/shellscripts/read4.sh
-|4,39,3,6,1693980216,"~/shellscripts/read4.sh"
--'  3  6  ~/shellscripts/read4.sh
-|4,39,3,6,1693980216,"~/shellscripts/read4.sh"
--'  3  6  ~/shellscripts/read4.sh
-|4,39,3,6,1693980216,"~/shellscripts/read4.sh"
--'  3  6  ~/shellscripts/read4.sh
-|4,39,3,6,1693980216,"~/shellscripts/read4.sh"
--'  3  6  ~/shellscripts/read4.sh
-|4,39,3,6,1693980216,"~/shellscripts/read4.sh"
--'  3  6  ~/shellscripts/read4.sh
-|4,39,3,6,1693980216,"~/shellscripts/read4.sh"
--'  3  6  ~/shellscripts/read4.sh
-|4,39,3,6,1693980216,"~/shellscripts/read4.sh"
--'  3  6  ~/shellscripts/read4.sh
-|4,39,3,6,1693980216,"~/shellscripts/read4.sh"
--'  3  6  ~/shellscripts/read4.sh
-|4,39,3,6,1693980216,"~/shellscripts/read4.sh"
--'  3  6  ~/shellscripts/read4.sh
-|4,39,3,6,1693980216,"~/shellscripts/read4.sh"
--'  3  6  ~/shellscripts/read4.sh
-|4,39,3,6,1693980216,"~/shellscripts/read4.sh"
--'  3  6  ~/shellscripts/read4.sh
-|4,39,3,6,1693980216,"~/shellscripts/read4.sh"
--'  3  6  ~/shellscripts/read4.sh
-|4,39,3,6,1693980216,"~/shellscripts/read4.sh"
--'  3  6  ~/shellscripts/read4.sh
-|4,39,3,6,1693980216,"~/shellscripts/read4.sh"
--'  3  6  ~/shellscripts/read4.sh
-|4,39,3,6,1693980216,"~/shellscripts/read4.sh"
--'  3  6  ~/shellscripts/read4.sh
-|4,39,3,6,1693980216,"~/shellscripts/read4.sh"
--'  3  6  ~/shellscripts/read4.sh
-|4,39,3,6,1693980216,"~/shellscripts/read4.sh"
--'  3  6  ~/shellscripts/read4.sh
-|4,39,3,6,1693980216,"~/shellscripts/read4.sh"
--'  3  6  ~/shellscripts/read4.sh
-|4,39,3,6,1693980216,"~/shellscripts/read4.sh"
--'  3  6  ~/shellscripts/read4.sh
-|4,39,3,6,1693980216,"~/shellscripts/read4.sh"
--'  3  6  ~/shellscripts/read4.sh
-|4,39,3,6,1693980216,"~/shellscripts/read4.sh"
--'  3  6  ~/shellscripts/read4.sh
-|4,39,3,6,1693980216,"~/shellscripts/read4.sh"
--'  3  6  ~/shellscripts/read4.sh
-|4,39,3,6,1693980216,"~/shellscripts/read4.sh"
--'  3  6  ~/shellscripts/read4.sh
-|4,39,3,6,1693980216,"~/shellscripts/read4.sh"
--'  3  6  ~/shellscripts/read4.sh
-|4,39,3,6,1693980216,"~/shellscripts/read4.sh"
--'  3  6  ~/shellscripts/read4.sh
-|4,39,3,6,1693980216,"~/shellscripts/read4.sh"
--'  3  6  ~/shellscripts/read4.sh
-|4,39,3,6,1693980216,"~/shellscripts/read4.sh"
--'  3  6  ~/shellscripts/read4.sh
-|4,39,3,6,1693980216,"~/shellscripts/read4.sh"
--'  3  6  ~/shellscripts/read4.sh
-|4,39,3,6,1693980216,"~/shellscripts/read4.sh"
--'  3  6  ~/shellscripts/read4.sh
-|4,39,3,6,1693980216,"~/shellscripts/read4.sh"
--'  2  6  ~/shellscripts/read4.sh
-|4,39,2,6,1693980186,"~/shellscripts/read4.sh"
--'  2  6  ~/shellscripts/read4.sh
-|4,39,2,6,1693980186,"~/shellscripts/read4.sh"
--'  2  6  ~/shellscripts/read4.sh
-|4,39,2,6,1693980186,"~/shellscripts/read4.sh"
--'  2  6  ~/shellscripts/read4.sh
-|4,39,2,6,1693980186,"~/shellscripts/read4.sh"
--'  2  6  ~/shellscripts/read4.sh
-|4,39,2,6,1693980186,"~/shellscripts/read4.sh"
+-'  1  30  ~/DBUtils.java
+|4,39,1,30,1694245555,"~/DBUtils.java"
+-'  1  30  ~/DBUtils.java
+|4,39,1,30,1694245555,"~/DBUtils.java"
+-'  1  30  ~/DBUtils.java
+|4,39,1,30,1694245555,"~/DBUtils.java"
+-'  1  30  ~/DBUtils.java
+|4,39,1,30,1694245555,"~/DBUtils.java"
+-'  1  30  ~/DBUtils.java
+|4,39,1,30,1694245555,"~/DBUtils.java"
+-'  1  30  ~/DBUtils.java
+|4,39,1,30,1694245555,"~/DBUtils.java"
+-'  1  30  ~/DBUtils.java
+|4,39,1,30,1694245555,"~/DBUtils.java"
+-'  1  30  ~/DBUtils.java
+|4,39,1,30,1694245555,"~/DBUtils.java"
+-'  1  30  ~/DBUtils.java
+|4,39,1,30,1694245555,"~/DBUtils.java"
+-'  1  30  ~/DBUtils.java
+|4,39,1,30,1694245555,"~/DBUtils.java"
+-'  1  30  ~/DBUtils.java
+|4,39,1,30,1694245555,"~/DBUtils.java"
+-'  1  30  ~/DBUtils.java
+|4,39,1,30,1694245555,"~/DBUtils.java"
+-'  1  30  ~/DBUtils.java
+|4,39,1,30,1694245555,"~/DBUtils.java"
+-'  1  30  ~/DBUtils.java
+|4,39,1,30,1694245555,"~/DBUtils.java"
+-'  1  30  ~/DBUtils.java
+|4,39,1,30,1694245555,"~/DBUtils.java"
+-'  1  30  ~/DBUtils.java
+|4,39,1,30,1694245555,"~/DBUtils.java"
+-'  1  30  ~/DBUtils.java
+|4,39,1,30,1694245555,"~/DBUtils.java"
+-'  1  30  ~/DBUtils.java
+|4,39,1,30,1694245555,"~/DBUtils.java"
+-'  1  30  ~/DBUtils.java
+|4,39,1,30,1694245555,"~/DBUtils.java"
+-'  1  30  ~/DBUtils.java
+|4,39,1,30,1694245555,"~/DBUtils.java"
+-'  1  30  ~/DBUtils.java
+|4,39,1,30,1694245555,"~/DBUtils.java"
+-'  1  30  ~/DBUtils.java
+|4,39,1,30,1694245555,"~/DBUtils.java"
+-'  1  30  ~/DBUtils.java
+|4,39,1,30,1694245555,"~/DBUtils.java"
+-'  1  30  ~/DBUtils.java
+|4,39,1,30,1694245555,"~/DBUtils.java"
+-'  1  30  ~/DBUtils.java
+|4,39,1,30,1694245555,"~/DBUtils.java"
+-'  1  30  ~/DBUtils.java
+|4,39,1,30,1694245555,"~/DBUtils.java"
+-'  1  30  ~/DBUtils.java
+|4,39,1,30,1694245555,"~/DBUtils.java"
+-'  1  30  ~/DBUtils.java
+|4,39,1,30,1694245555,"~/DBUtils.java"
+-'  1  30  ~/DBUtils.java
+|4,39,1,30,1694245555,"~/DBUtils.java"
+-'  1  30  ~/DBUtils.java
+|4,39,1,30,1694245555,"~/DBUtils.java"
+-'  1  30  ~/DBUtils.java
+|4,39,1,30,1694245555,"~/DBUtils.java"
+-'  1  30  ~/DBUtils.java
+|4,39,1,30,1694245555,"~/DBUtils.java"
+-'  1  30  ~/DBUtils.java
+|4,39,1,30,1694245555,"~/DBUtils.java"
+-'  1  30  ~/DBUtils.java
+|4,39,1,30,1694245555,"~/DBUtils.java"
+-'  1  30  ~/DBUtils.java
+|4,39,1,30,1694245555,"~/DBUtils.java"
+-'  1  30  ~/DBUtils.java
+|4,39,1,30,1694245555,"~/DBUtils.java"
+-'  1  30  ~/DBUtils.java
+|4,39,1,30,1694245555,"~/DBUtils.java"
+-'  1  30  ~/DBUtils.java
+|4,39,1,30,1694245555,"~/DBUtils.java"
+-'  1  30  ~/DBUtils.java
+|4,39,1,30,1694245555,"~/DBUtils.java"
+-'  1  30  ~/DBUtils.java
+|4,39,1,30,1694245555,"~/DBUtils.java"
+-'  1  30  ~/DBUtils.java
+|4,39,1,30,1694245555,"~/DBUtils.java"
+-'  1  30  ~/DBUtils.java
+|4,39,1,30,1694245555,"~/DBUtils.java"
+-'  1  30  ~/DBUtils.java
+|4,39,1,30,1694245555,"~/DBUtils.java"
+-'  1  30  ~/DBUtils.java
+|4,39,1,30,1694245555,"~/DBUtils.java"
 
 # History of marks within files (newest to oldest):
+
+> ~/stringutils.java
+	*	1694318647	0
+	"	2	6
+	^	2	7
+	.	2	6
+	+	1	40
+	+	2	6
+
+> ~/stringutils.sh
+	*	1694318613	0
+	"	1	0
+
+> ~/ls
+	*	1694318524	0
+	"	1	0
 
 > ~/java.txt
 	*	1694318368	0
@@ -274,13 +290,6 @@
 	^	1	32
 	.	1	31
 	+	1	31
-
-> ~/stringutils.java
-	*	1694245717	0
-	"	1	39
-	^	1	40
-	.	1	39
-	+	1	39
 
 > ~/DBUtils.java
 	*	1694245552	0
@@ -403,23 +412,3 @@
 	+	4	6
 	+	12	6
 	+	6	9
-
-> ~/shellscripts/userdefined.sh
-	*	1693408818	0
-	"	14	21
-	^	14	21
-	.	14	20
-	+	5	11
-	+	11	9
-	+	5	11
-	+	6	3
-	+	4	6
-	+	13	13
-	+	14	20
-
-> ~/shellscripts/comments
-	*	1693402927	0
-	"	13	0
-	^	13	0
-	.	12	25
-	+	12	25
