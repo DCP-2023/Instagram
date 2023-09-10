@@ -409,3 +409,34 @@ cat firstshell.log
  sh firstshell.sh 2> errors.log 1>outputs.log
 cat errors.log
 cat outputs.log
+uname
+git --version
+yum install git -y
+sudo -su
+sudo yum install git -y
+git --version
+cd ~
+cd Desktop/
+pwd
+vi DBUtils.java
+git status
+git init
+vi stringutils.java
+git status
+git add*.java
+git add *
+git add *.java
+ls
+git add stringutils.java
+ls
+git commit -m "commitmessage"
+git config --global username "ChanduPrem123"
+git config --global user.name "ChanduPrem123"
+git config --global user.email "dcprem77@gmail.com"
+git config --global --list
+vi deploy.sh
+git status
+git add .
+git status
+git commit -m "first comit"
+git status
